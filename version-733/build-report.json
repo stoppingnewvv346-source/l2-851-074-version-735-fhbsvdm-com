@@ -1,0 +1,24 @@
+{
+  "parsed_movies": 2000,
+  "hls_urls_extracted_from_original_js": 150,
+  "html_files": 2014,
+  "detail_pages": 2000,
+  "baidu_stats_in_all_html": true,
+  "jpg_files_in_output": 0,
+  "category_coverage": 2000,
+  "category_unique_movies": 2000,
+  "detail_pages_with_hls_player": 2000,
+  "movie_card_refs_in_categories_and_all_page": 4000,
+  "category_counts": {
+    "剧情热播": 200,
+    "爱情都市": 200,
+    "喜剧轻松": 200,
+    "动作冒险": 200,
+    "悬疑犯罪": 200,
+    "科幻奇幻": 200,
+    "恐怖惊悚": 200,
+    "青春成长": 200,
+    "动画亲子": 200,
+    "纪录综艺": 200
+  }
+}
